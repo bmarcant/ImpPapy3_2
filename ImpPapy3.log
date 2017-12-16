@@ -1,0 +1,19 @@
+Script ImpPapy3
+
+Début du traitement (15/12/2017-21:26:52)
+
+Anomalie : la référence 10000existe déjà dans la table Biblio.db
+Référence 20011 créée
+Référence 20012 créée
+Référence 20015 créée
+Référence 20016 créée
+Référence 20017 créée
+
+7 ligne(s) lue(s) dans le fichier CSV
+1 ligne de titre
+5 ligne(s) écrite(s) dans la table Biblio.db
+1 anomalie(s) détectée(s)
+Voir le détail dans E:\A ranger\Paradox\ImpPapy3.log
+
+Fin du traitement (15/12/2017-21:27:04)
+
